@@ -429,12 +429,12 @@ input[type='radio'] {
 }
 
 a {
-  color: #9b4dca;
+  color: #606c76;
   text-decoration: none;
 }
 
 a:focus, a:hover {
-  color: #606c76;
+  color: #9b4dca;
 }
 
 dl,
@@ -521,7 +521,7 @@ strong {
 }
 
 p {
-  margin-top: 0;
+  margin: 0;
 }
 
 h1,
@@ -532,22 +532,22 @@ h5,
 h6 {
   font-weight: 300;
   letter-spacing: -.1rem;
-  margin-bottom: 2.0rem;
+  margin-bottom: 1rem;
   margin-top: 0;
 }
 
 h1 {
-  font-size: 4.6rem;
+  font-size: 4rem;
   line-height: 1.2;
 }
 
 h2 {
-  font-size: 3.6rem;
+  font-size: 3rem;
   line-height: 1.25;
 }
 
 h3 {
-  font-size: 2.8rem;
+  font-size: 2.5rem;
   line-height: 1.3;
 }
 
