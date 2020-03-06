@@ -1,0 +1,52 @@
+body
+{
+	display: flex;
+	align-items: center;
+	padding: 3rem 0;
+	height: 100vh;
+}
+
+.container
+{
+	max-width: 60rem;
+}
+
+.button
+{
+	height: auto;
+	padding: 0;
+	user-select: none;
+}
+
+.pl-1
+{
+	padding-left: 1rem;
+}
+.pr-1
+{
+	padding-right: 1rem;
+}
+.py-1
+{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.py-3
+{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.w-100
+{
+	width: 100%;
+}
+.text-large
+{
+	font-size: large;
+	font-weight: bold;
+}
+
+.bg-correct { background-color: #badc58 !important; }
+.bg-wrong   { background-color: #ff7979 !important; }
+.bg-next    { background-color: #686de0 !important; }
